@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ricardo Contreras
+# 👋 ¡Hola! Soy Ricardo Contreras Garzón
 
 ### 🎓 Estudiante de Ingeniería de Sistemas | 📚 Una persona en constante aprendizaje
 
