@@ -6,23 +6,23 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ricardo Contreras Garzón
+# 👋 ¡Hola! Soy Ricardo Contreras Garzón
 
-> 🎓 Systems Engineering student passionate about constant learning 📚
+> 🎓 Ingenierío de Sistemas apasionado en el aprendizaje constante 📚
 
-<!--<img src="assets/images/banner.gif" alt="Animated banner showing code" width="100%">-->
+<!--<img src="assets/images/banner.gif" alt="Banner animado mostrando código" width="100%">-->
 
 </div>
 
-## About Me 🚀
+## Sobre mí 🚀
 
-I am a Systems Engineering student passionate about technology and software development. My goal is to become the best engineer possible and master a wide range of knowledge in my field. I love learning and am constantly looking for new skills and knowledge to add to my arsenal.
+Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología y el desarrollo de software. Mi objetivo es convertirme en el mejor ingeniero posible y dominar una amplia gama de conocimientos en mi campo. Me encanta aprender y estoy constantemente buscando nuevas habilidades y conocimientos para agregar a mi arsenal.
 
-- 🌱 I am currently learning **React** and other technologies.
-- 👯 I am looking to collaborate on **open source projects** or learn new things.
-- 💬 Ask me about **programming, algorithms, web development, machine learning (ML), and/or Artificial Intelligence**.
+- 🌱 Actualmente estoy aprendiendo **React** y otros tipos de tecnologías.
+- 👯 Estoy buscando colaborar en **proyectos de código abierto** o aprender nuevas cosas.
+- 💬 Pregúntame sobre **programación, algoritmos, desarrollo web, aprendizaje automático (ML) y/o Inteligencia Artificial**.
 
-## Technologies & Tools 🛠️
+## Tecnologías y Herramientas 🛠️
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -40,7 +40,7 @@ I am a Systems Engineering student passionate about technology and software deve
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Herramientas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -51,40 +51,40 @@ I am a Systems Engineering student passionate about technology and software deve
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-### Others
+### Otros
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-007ACC?style=flat&logo=design&logoColor=white)
+![Patrones de Diseño](https://img.shields.io/badge/Patrones_de_Diseño-007ACC?style=flat&logo=design&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-## Featured Projects 💻
+## Proyectos Destacados 💻
 
 <div align="center">
 
-| Project | Description | Technologies | Links |
-|---------|-------------|--------------|-------|
-| 🌟 Filmhub-Backend | Audiovisual content management system | Spring Boot, Azure, Codespaces, SQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RickContreras/FilmHub-backend) |
-| 🚀 Modelos1 | ICFES test classification model | Python, Data Science, Machine Learning | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RickContreras/Modelos1) |
+| Proyecto | Descripción | Tecnologías | Enlaces |
+|----------|-------------|-------------|---------|
+| 🌟 Filmhub-Backend | Sistema de gestión de contenido audiovisual | Spring Boot, Azure, Codespaces, SQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RickContreras/FilmHub-backend) |
+| 🚀 Modelos1 | Modelo de clasificación Pruebas ICFES | Python, Data Science, Machine Learning | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RickContreras/Modelos1) |
 
 </div>
 
-## GitHub Stats 📊
+## Estadísticas de GitHub 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="GitHub Stats" height="170px">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RickContreras&theme=github-light&hide_border=true&border_radius=3.9&locale=en&short_numbers=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="170px">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RickContreras&theme=github-light&hide_border=true&border_radius=3.9&locale=es&short_numbers=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickContreras&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs">
 </div>
 
-## Certifications & Achievements 🏆
+## Certificaciones y Logros 🏆
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 🌐 Connect with Me
+## 🌐 Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/rickcontrerasg/)
 
@@ -92,7 +92,7 @@ I am a Systems Engineering student passionate about technology and software deve
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RickContreras&color=blueviolet)
+![Visitas](https://komarev.com/ghpvc/?username=RickContreras&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/RickContreras?style=social)](https://github.com/RickContreras)
 ![GitHub last commit](https://img.shields.io/github/last-commit/RickContreras/RickContreras)
 
