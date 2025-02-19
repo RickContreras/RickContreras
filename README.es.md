@@ -1,7 +1,7 @@
 <p align="center">
   <a href="README.md">English</a> |
   <a href="README.es.md">Español</a> |
-  <a href="README.pt.md">Português</a>
+  <a href="README.pt.md">Deutsch</a>
 </p>
 
 <div align="center">
@@ -76,7 +76,7 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología y el des
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="170px">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RickContreras&theme=github-light&hide_border=true&border_radius=3.9&locale=es&short_numbers=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RickContreras&theme=radical&hide_border=true&border_radius=3.9&locale=es&short_numbers=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickContreras&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs">
 </div>
 
