@@ -70,23 +70,12 @@ I am a Systems Engineering student passionate about technology and software deve
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-## Featured Projects 💻
-
-<div align="center">
-
-| Project | Description | Technologies | Links |
-|---------|-------------|--------------|-------|
-| 🌟 Filmhub-Backend | Audiovisual content management system | Spring Boot, Azure, Codespaces, SQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RickContreras/FilmHub-backend) |
-| 🚀 Modelos1 | ICFES test classification model | Python, Data Science, Machine Learning | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RickContreras/Modelos1) |
-
-</div>
-
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="GitHub Stats" height="170px">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="GitHub Stats" height="170px">-->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RickContreras&theme=radical&hide_border=true&border_radius=3.9&locale=en&short_numbers=true" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickContreras&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickContreras&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs">-->
 </div>
 
 ## Certifications & Achievements 🏆
