@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/images/banner-en.png" alt="Welcome banner with RickContreras profile" width="80%">
+<img src="assets/images/banner-en.png" alt="Welcome banner with RickContreras profile" width="100%">
 
 </div>
 
@@ -14,7 +14,7 @@
 
 I am a Systems Engineering student passionate about technology and software development. My goal is to become the best engineer possible and master a wide range of knowledge in my field. I love learning and am constantly looking for new skills and knowledge to add to my arsenal.
 
-- 🌱 I am currently learning **React** and other technologies.
+- 🌱 I'm currently learning **React, video games development, and advanced ML techniques**
 - 👯 I am looking to collaborate on **open source projects** or learn new things.
 - 💬 Ask me about **programming, algorithms, web development, machine learning (ML), and/or Artificial Intelligence**.
 
@@ -71,12 +71,14 @@ I am a Systems Engineering student passionate about technology and software deve
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="GitHub Stats" height="170px">-->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RickContreras&theme=radical&hide_border=true&border_radius=3.9&locale=en&short_numbers=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RickContreras&theme=radical&hide_border=true" alt="Contribution Graph" width="50%">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickContreras&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs">-->
 </div>
 
 ## Certifications & Achievements 🏆
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+- 🏅 **Outstanding Advanced Student** - Universidad de Antioquia (2025)
 
 ## 🌐 Connect with Me
 
