@@ -6,11 +6,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ricardo Contreras Garzón
-
-> 🎓 Systems Engineering student passionate about constant learning 📚
-
-<!--<img src="assets/images/banner.gif" alt="Animated banner showing code" width="100%">-->
+<img src="assets/images/banner-en.png" alt="Welcome banner with RickContreras profile" width="80%">
 
 </div>
 
