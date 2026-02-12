@@ -71,14 +71,15 @@ I am a Systems Engineering student passionate about technology and software deve
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="GitHub Stats" height="170px">-->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RickContreras&theme=radical&hide_border=true&border_radius=3.9&locale=en&short_numbers=true" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RickContreras&theme=radical&hide_border=true" alt="Contribution Graph" width="50%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RickContreras&theme=github&hide_border=true&area=true&custom_title=Contribution%20Overview&days=21" alt="Contribution Graph" width="100%">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickContreras&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs">-->
 </div>
 
 ## Certifications & Achievements 🏆
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 - 🏅 **Outstanding Advanced Student** - Universidad de Antioquia (2025)
+- 📜 **GitHub Actions** - Github (2025)
+- 📜 **GitHub Foundations** - Github (2024)
 
 ## 🌐 Connect with Me
 
