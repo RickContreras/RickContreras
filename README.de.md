@@ -6,11 +6,7 @@
 
 <div align="center">
 
-# 👋 Hallo, ich bin Ricardo Contreras Garzón
-
-> 🎓 Informatikstudent, leidenschaftlich über kontinuierliches Lernen 📚
-
-<!--<img src="assets/images/banner.gif" alt="Animiertes Banner, das Code zeigt" width="100%">-->
+<img src="assets/images/banner-de.png" alt="Willkommensbanner mit Ricardo Contreras Garzón Profil" width="100%">
 
 </div>
 
