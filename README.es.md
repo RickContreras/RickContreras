@@ -6,11 +6,7 @@
 
 <div align="center">
 
-# 👋 ¡Hola! Soy Ricardo Contreras Garzón
-
-> 🎓 Ingenierío de Sistemas apasionado en el aprendizaje constante 📚
-
-<!--<img src="assets/images/banner.gif" alt="Banner animado mostrando código" width="100%">-->
+<img src="assets/images/banner-es.png" alt="Banner de bienvenida con perfil de Ricardo Contreras Garzón" width="100%">
 
 </div>
 
