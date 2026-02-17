@@ -87,7 +87,9 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología y el des
 
 ## Certificaciones y Logros 🏆
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+- 🏅 **Estudiante Avanzado Destacado** - Universidad de Antioquia (2025)
+- 📜 **GitHub Actions** - Github (2025)
+- 📜 **GitHub Foundations** - Github (2024)
 
 ## 🌐 Conéctate conmigo
 
