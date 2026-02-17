@@ -14,7 +14,7 @@
 
 Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología y el desarrollo de software. Mi objetivo es convertirme en el mejor ingeniero posible y dominar una amplia gama de conocimientos en mi campo. Me encanta aprender y estoy constantemente buscando nuevas habilidades y conocimientos para agregar a mi arsenal.
 
-- 🌱 Actualmente estoy aprendiendo **React** y otros tipos de tecnologías.
+- 🌱 Actualmente estoy aprendiendo **React, desarrollo de videojuegos y técnicas avanzadas de ML**
 - 👯 Estoy buscando colaborar en **proyectos de código abierto** o aprender nuevas cosas.
 - 💬 Pregúntame sobre **programación, algoritmos, desarrollo web, aprendizaje automático (ML) y/o Inteligencia Artificial**.
 
