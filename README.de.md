@@ -66,17 +66,6 @@ Ich bin ein Informatikstudent, der sich für Technologie und Softwareentwicklung
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-## Ausgewählte Projekte 💻
-
-<div align="center">
-
-| Projekt | Beschreibung | Technologien | Links |
-|---------|---------------|--------------|-------|
-| 🌟 Filmhub-Backend | Verwaltungssystem für audiovisuelle Inhalte | Spring Boot, Azure, Codespaces, SQL | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RickContreras/FilmHub-backend) |
-| 🚀 Modelos1 | Klassifikationsmodell für ICFES-Tests | Python, Data Science, Machine Learning | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/RickContreras/Modelos1) |
-
-</div>
-
 ## GitHub-Statistiken 📊
 
 <div align="center">
