@@ -80,9 +80,10 @@ Ich bin ein Informatikstudent, der sich für Technologie und Softwareentwicklung
 ## GitHub-Statistiken 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="GitHub-Statistiken" height="170px">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=RickContreras&show_icons=true&theme=radical" alt="GitHub-Statistiken" height="170px">-->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RickContreras&theme=radical&hide_border=true&border_radius=3.9&locale=de&short_numbers=true" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickContreras&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RickContreras&theme=github&hide_border=true&area=true&custom_title=Beitragsübersicht&days=21" alt="Beitragsgrafik" width="100%">
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickContreras&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Langs">-->
 </div>
 
 ## Zertifizierungen & Erfolge 🏆
