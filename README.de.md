@@ -14,7 +14,7 @@
 
 Ich bin ein Informatikstudent, der sich für Technologie und Softwareentwicklung begeistert. Mein Ziel ist es, der bestmögliche Ingenieur zu werden und ein breites Spektrum an Wissen in meinem Bereich zu beherrschen. Ich liebe es zu lernen und bin ständig auf der Suche nach neuen Fähigkeiten und Wissen, die ich meinem Arsenal hinzufügen kann.
 
-- 🌱 Derzeit lerne ich **React** und andere Technologien.
+- 🌱 Derzeit lerne ich React, Entwicklung von Videospielen und fortgeschrittene ML-Techniken
 - 👯 Ich suche nach Möglichkeiten, an **Open-Source-Projekten** mitzuwirken oder neue Dinge zu lernen.
 - 💬 Frag mich über **Programmierung, Algorithmen, Webentwicklung, maschinelles Lernen (ML) und/oder künstliche Intelligenz**.
 
